@@ -83,4 +83,4 @@ int main()
 }
 
 //http://cpp.sh/
-http://www.algorytm.edu.pl/algorytmy-maturalne/wyszukiwanie-binarne.html
+//http://www.algorytm.edu.pl/algorytmy-maturalne/wyszukiwanie-binarne.html
