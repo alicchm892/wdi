@@ -41,8 +41,8 @@ int szukaj_r(int l, int r, int szukana, int tab[]) // wyszukiwanie binarne (reku
 
 int main()
 {
-	int const n = 7; // n - liczba elementów tablicy
-	int tab[n]; // tab - tablica o liczbie elementów n
+	int const n = 7; // n - liczba elementÃ³w tablicy
+	int tab[n]; // tab - tablica o liczbie elementÃ³w n
 
 	for (int i = 0; i < n; i++) //uzupelnienie tablicy posortowanymi liczbami
 	{
@@ -83,3 +83,4 @@ int main()
 }
 
 //http://cpp.sh/
+http://www.algorytm.edu.pl/algorytmy-maturalne/wyszukiwanie-binarne.html
